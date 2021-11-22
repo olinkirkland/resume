@@ -31,7 +31,6 @@
 - Created interactive modules to display and visualize camera, VIP, and sale data in a user-friendly
   dashboard according to client needs
 - Developed an interface for clients to back up their recorded data securely to physical media
-- Collaborated to implement a dark/light mode across the application
 
 ### Paul Bernhard Exhibit Design and Consulting in _Houston, Texas, United States_
 
@@ -40,8 +39,7 @@
 - Designed and developed of touch screen Adobe Air applications and media kiosks and deployed them
   in the Wiess Energy Hall of the Houston Museum of Natural Science
 - Developed interactive visualizations for data from a wide variety of formats and sources related to the energy sector
-- Created moodboards and storyboards and collaborated with museum curators to come up with
-  application mockups
+- Collaborated with museum curators to design application mockups
 
 ---
 
