@@ -1,4 +1,5 @@
 # Olin Kirkland
+## Web Developer
 
 #### me@olinkirk.land | +49 162 372 0898 | https://www.olinkirk.land
 
@@ -6,11 +7,11 @@
 
 ---
 
-## Skills
+## Skills & Proficiencies
 
-### Languages & Frameworks: TypeScript, JavaScript, ActionScript 3, Apache Flex, Haxe
-
-### Software: Visual Studio Code, Adobe Animate, IntelliJ IDEA, Publii, Postman, Git Kraken
+- JavaScript, TypeScript, ActionScript 3, Haxe
+- HTML, CSS, Tailwind, Bootstrap 4, XML, Apache Flex
+- Git, Figma, Adobe Animate
 
 ---
 
@@ -18,7 +19,7 @@
 
 ### Bright Future GmbH. in _Cologne, North Rhine-Westphalia, Germany_
 
-#### **Game Developer**, April 2020 – Present
+#### **Game Developer**, April 2020 – January 2022
 
 - Developed and maintained the massively multiplayer Haxe browser game Rail Nation
 - Created tools to reduce the time taken to create item sales and integrate content for new features
