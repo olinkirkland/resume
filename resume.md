@@ -1,48 +1,65 @@
 # Olin Kirkland
-## Web Developer
+## Full-stack Web Developer
 
 #### me@olinkirk.land | +49 162 372 0898 | https://www.olinkirk.land
 
-#### Cologne, Germany | Bilingual German and English
+#### Cologne, Germany | Bilingual English and German
 
 ---
 
 ## Skills & Proficiencies
 
-- JavaScript, TypeScript, ActionScript 3, Haxe
-- HTML, CSS, Tailwind, Bootstrap 4, XML, Apache Flex
-- Git, Figma, Adobe Animate
+- JavaScript, TypeScript, ActionScript 3/Apache Flex, Haxe
+- ReactJS, NodeJS, ThreeJS, PixiJS
+- Semantic HTML, SCSS/CSS, Tailwind, Bootstrap 4, XML
+- Git, Figma, Adobe Animate, MongoDB
 
 ---
 
 ## Experience
+
+### AB Tasty in _Cologne, North Rhine-Westphalia, Germany_
+
+#### **Technical Support Engineer**, June 2022 - Present
+
+- Developing A/B tests and personalization campaigns for well-known brands using native JS and SCSS
+- Determining feasibility of customer requests and providing technical solutions
+- Troubleshooting and resolving technical issues on AB Tasty's platform
 
 ### Bright Future GmbH. in _Cologne, North Rhine-Westphalia, Germany_
 
 #### **Game Developer**, April 2020 – January 2022
 
 - Developed and maintained the massively multiplayer Haxe browser game Rail Nation
+- Assisted in the game’s migration from ActionScript 3 to Haxe to maintain efficacy in the browser and on mobile platforms
 - Created tools to reduce the time taken to create item sales and integrate content for new features
-- Assisted in the game’s migration from ActionScript 3 to Haxe to maintain efficacy in the browser and later on mobile platforms
 
 ### Dallmeier GmbH. in _Regensburg, Bavaria, Germany_
 
 #### **Flex Developer**, May 2018 – April 2020
 
-- Created interactive modules to display and visualize camera, VIP, and sale data in a user-friendly
-  dashboard according to client needs
-- Developed an interface for clients to back up their recorded data securely to physical media
+- Created interactive components to display and visualize camera, VIP, and sales data in a modular
+  dashboard according to client needs using ActionScript 3 and the Apache Flex framework
+- Developed a module for clients to back up their recorded data securely to physical media
 
 ### Paul Bernhard Exhibit Design and Consulting in _Houston, Texas, United States_
 
 #### **Applications Developer**, September 2015 – May 2018
 
-- Designed and developed of touch screen Adobe Air applications and media kiosks and deployed them
+- Designed and developed touch screen ActionScript 3 applications and media kiosks and deployed them
   in the Wiess Energy Hall of the Houston Museum of Natural Science
-- Developed interactive visualizations for data from a wide variety of formats and sources related to the energy sector
-- Collaborated with museum curators to design application mockups
+- Developed interactive visualizations for data from a wide variety of formats and sources related to the Texas energy sector
+- Collaborated with museum curators to realize application mockups
 
 ---
+
+## Certificates
+
+### Full-stack Web Developer Certification
+
+##### WBS Coding School, Cologne, Germany
+
+##### January 2022 - May 2022
 
 ## Education
 
