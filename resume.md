@@ -23,23 +23,23 @@
 #### **Technical Support Engineer**, June 2022 - Present
 
 - Developing A/B tests and personalization campaigns for well-known brands using native JS and SCSS
-- Determining feasibility of customer requests and providing technical solutions
+- Estimating customer requests and providing technical solutions
 - Troubleshooting and resolving technical issues on AB Tasty's platform
 
-### Bright Future GmbH. in _Cologne, North Rhine-Westphalia, Germany_
+### Bright Future GmbH in _Cologne, North Rhine-Westphalia, Germany_
 
 #### **Game Developer**, April 2020 – January 2022
 
-- Developed and maintained the massively multiplayer Haxe browser game Rail Nation
+- Developed and maintained the massively multiplayer browser game Rail Nation
 - Assisted in the game’s migration from ActionScript 3 to Haxe to maintain efficacy in the browser and on mobile platforms
 - Created tools to reduce the time taken to create item sales and integrate content for new features
 
-### Dallmeier GmbH. in _Regensburg, Bavaria, Germany_
+### Dallmeier GmbH in _Regensburg, Bavaria, Germany_
 
 #### **Flex Developer**, May 2018 – April 2020
 
-- Created interactive components to display and visualize camera, VIP, and sales data in a modular
-  dashboard according to client needs using ActionScript 3 and the Apache Flex framework
+- Created interactive components to display and visualize camera, user, and sales data in a modular
+  dashboard using ActionScript 3 and Apache Flex
 - Developed a module for clients to back up their recorded data securely to physical media
 
 ### Paul Bernhard Exhibit Design and Consulting in _Houston, Texas, United States_
@@ -60,6 +60,8 @@
 ##### WBS Coding School, Cologne, Germany
 
 ##### January 2022 - May 2022
+
+---
 
 ## Education
 
