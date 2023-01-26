@@ -10,9 +10,9 @@
 ## Skills & Proficiencies
 
 - JavaScript, TypeScript, ActionScript 3/Apache Flex, Haxe
-- ReactJS, NodeJS, ThreeJS, PixiJS
+- React.js, Node.js, Three.js, Pixi.js
 - Semantic HTML, SCSS/CSS, Tailwind, Bootstrap 4, XML
-- Git, Figma, Adobe Animate, MongoDB
+- MongoDB, Git, Figma, Adobe Animate
 
 ---
 
@@ -22,7 +22,7 @@
 
 #### **Technical Support Engineer**, June 2022 - Present
 
-- Developing A/B tests and personalization campaigns for well-known brands using native JS and SCSS
+- Developing A/B tests and personalization campaigns for well-known brands using JS and SCSS
 - Estimating customer requests and providing technical solutions
 - Troubleshooting and resolving technical issues on AB Tasty's platform
 
@@ -36,7 +36,7 @@
 
 ### Dallmeier GmbH in _Regensburg, Bavaria, Germany_
 
-#### **Flex Developer**, May 2018 – April 2020
+#### **Applications Developer**, May 2018 – April 2020
 
 - Created interactive components to display and visualize camera, user, and sales data in a modular
   dashboard using ActionScript 3 and Apache Flex
