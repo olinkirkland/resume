@@ -48,11 +48,6 @@ article {
   margin: 0 auto;
 }
 
-section {
-  padding: 4rem;
-  border-bottom: 1px dashed var(--dark);
-}
-
 h2 {
   margin-bottom: 2rem;
   color: var(--dark-muted);
